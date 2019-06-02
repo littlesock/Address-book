@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\作品\c#\通訊錄\通訊錄\bin\Debug\Database1.mdb
+C:\Users\user\Desktop\作品\c#\通訊錄\通訊錄\bin\Debug\通訊錄.exe.config
+C:\Users\user\Desktop\作品\c#\通訊錄\通訊錄\bin\Debug\通訊錄.exe
+C:\Users\user\Desktop\作品\c#\通訊錄\通訊錄\bin\Debug\通訊錄.pdb
+C:\Users\user\Desktop\作品\c#\通訊錄\通訊錄\obj\Debug\通訊錄.csprojAssemblyReference.cache
+C:\Users\user\Desktop\作品\c#\通訊錄\通訊錄\obj\Debug\通訊錄.Form1.resources
+C:\Users\user\Desktop\作品\c#\通訊錄\通訊錄\obj\Debug\通訊錄.Properties.Resources.resources
+C:\Users\user\Desktop\作品\c#\通訊錄\通訊錄\obj\Debug\通訊錄.csproj.GenerateResource.cache
+C:\Users\user\Desktop\作品\c#\通訊錄\通訊錄\obj\Debug\通訊錄.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\作品\c#\通訊錄\通訊錄\obj\Debug\通訊錄.exe
+C:\Users\user\Desktop\作品\c#\通訊錄\通訊錄\obj\Debug\通訊錄.pdb
